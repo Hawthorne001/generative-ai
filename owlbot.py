@@ -1,3 +1,4 @@
+# pylint: skip-file
 # Copyright 2022 Google LLC
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
@@ -15,7 +16,7 @@
 import synthtool as s
 import synthtool.gcp as gcp
 
-templated_files = gcp.CommonTemplates().py_library()
+templated_files = gcp.CommonTemplates().python_notebooks()
 
 # Copy the standard noxfile from templated_files
 s.move(templated_files / "noxfile.py")
