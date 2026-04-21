@@ -612,6 +612,7 @@ gtk
 guanciale
 Gundogan
 gunicorn
+Guterres
 GWLP
 hadolint
 hahaha
@@ -1215,6 +1216,7 @@ pyautogen
 pyav
 pybind
 pydantic
+pydrive
 pydub
 PYINK
 pymupdf
@@ -1740,6 +1742,7 @@ yanchor
 yaxes
 yaxis
 ycol
+ydf
 yedoensis
 Ykb
 ylabel
