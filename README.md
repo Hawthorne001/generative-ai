@@ -1,11 +1,9 @@
 # Generative AI on Google Cloud
 
-> **[Gemini 3.1 Pro](https://cloud.google.com/vertex-ai/generative-ai/docs/models/gemini/3-1-pro) has been released!**
+> **[Gemini Enterprise Agent Platform](https://docs.cloud.google.com/gemini-enterprise-agent-platform)**, the latest evolution of Vertex AI, has been released!
 >
-> Here are the latest notebooks and demos using the new model:
->
-> - [Intro to Gemini 3.1 Pro](gemini/getting-started/intro_gemini_3_1_pro.ipynb)
->
+> Check out the [`Google-Cloud-AI/agent-platform`](https://goo.gle/agent-platform-github) repository for a curated list of assets for agent building on Google Cloud.
+
 <!-- markdownlint-disable MD033 -->
 
 This repository contains notebooks, code samples, sample apps, and other resources that demonstrate how to use, develop and manage generative AI workflows using [Generative AI on Google Cloud](https://cloud.google.com/ai/generative-ai) with [Vertex AI](https://cloud.google.com/vertex-ai).
