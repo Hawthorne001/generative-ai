@@ -8,9 +8,9 @@
 
 This repository contains notebooks, code samples, sample apps, and other resources that demonstrate how to use, develop and manage generative AI workflows using [Generative AI](https://cloud.google.com/ai/generative-ai) with [Agent Platform](https://docs.cloud.google.com/gemini-enterprise-agent-platform).
 
-## Using this repository
+## Intro Video
 
-[![Applied AI Summit: The cloud toolkit for generative AI](https://img.youtube.com/vi/xT7WW2SKLfE/hqdefault.jpg)](https://www.youtube.com/watch?v=xT7WW2SKLfE)
+[![What is Gemini Enterprise Agent Platform?](https://img.youtube.com/vi/j8qW5poBkEU/maxresdefault.jpg)](https://goo.gle/agent-platform-video)
 
 <table>
   <tr>
