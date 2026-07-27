@@ -1,3 +1,4 @@
 functions-framework
 google-cloud-aiplatform
 vertexai
+idna>=3.15 # not directly required, pinned by Snyk to avoid a vulnerability
